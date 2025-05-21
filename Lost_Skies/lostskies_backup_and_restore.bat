@@ -3,6 +3,7 @@
 :: Description: This script allows you to backup and restore your Lost Skies worlds.
 :: Version: 1.0
 :: Date: 05/16/2025
+:: Inspired by the failure of DankHoneyOil to write something that works.
 
 @echo off
 setlocal enabledelayedexpansion
